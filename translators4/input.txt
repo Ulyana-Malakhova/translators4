@@ -1,0 +1,8 @@
+while While int short long main struct const d4;
+g = 63, h > 0xF, d <= 4L; s == 0XAl
+a.j || a,k
+while (k < 0 && s != 5 ){
+	s + 5;
+	a*b;
+	a/g;
+}
